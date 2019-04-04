@@ -1,7 +1,8 @@
 
 ##################################################################
 # Wildfire Risk Decision Support System
-# Course: SYST 542 Decision Support Systems Engineering
+# SYST 542 Decision Support Systems Engineering
+# George Mason University
 # Authors: Yuxin Li, Erica Maciejewski,  Mark Richard, Tyler Reif
 
 ##################################################################
@@ -15,7 +16,6 @@ library(leaflet)
 library(leaflet.extras)
 library(tidyverse)
 library(shiny)
-
 
 #################################################################
 # User Interface 
