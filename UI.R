@@ -1,0 +1,40 @@
+
+##################################################################
+# Wildfire Risk Decision Support System
+# Course: SYST 542 Decision Support Systems Engineering
+# Authors: Yuxin Li, Erica Maciejewski,  Mark Richard, Tyler Reif
+
+##################################################################
+# Import Packages
+##################################################################
+
+library(sf)
+library(dplyr)
+library(raster)
+library(leaflet)
+library(leaflet.extras)
+library(tidyverse)
+library(shiny)
+
+
+###############################################################
+# User Interface 
+###############################################################
+
+ui <- fluidPage(
+        titlePanel("Wildfire Risk DSS"),
+        sidebarLayout(
+          sidebarPanel(
+            # Sidebar Inputs here
+          ),
+          mainPanel(
+            # Main Panel leaflet map
+          )
+        )
+)
+
+server <- function(input, output) {
+  #Server outputs 
+}
+
+shinyApp(ui = ui, server = server)
