@@ -1,4 +1,4 @@
-# SYST-542-Group-3-DSS
+# SYST-542 Wildfire Risk DSS
 
 Authors: Yuxin Li, Erica Maciejewski,  Mark Richard, Tyler Reif
 
