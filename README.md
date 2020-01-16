@@ -1,8 +1,6 @@
 # SYST-542 Wildfire Risk DSS
 
-Authors: Yuxin Li, Erica Maciejewski,  Mark Richard, Tyler Reif
-
-George Mason University
+Author: Mark Richard
 
 The Wildfire Risk DSS combines wildfire simulation and decision science methods to visualize the integrated risk of wildfire on a geospatial map. A key feature of the tool is the manner in which a decision maker can interactively explore various dimensions of risk geospatially in order to draw conclusions from the data and make decisions to mitigate risk.
 
